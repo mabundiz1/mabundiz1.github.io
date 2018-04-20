@@ -16,3 +16,7 @@
 .footer ul{
   text-align: center;
 }
+
+.carousel-inner > .item > img{
+margin:auto;
+}
